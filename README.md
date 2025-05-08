@@ -7,7 +7,7 @@ A Sui-based NFT minting decentralized app (dApp) with whitelist support, random 
 
 Check out the video below to understand the complete workflow of the dApp:
 
-[![Watch the video](./test.mp4)]
+[![Watch the video](./test.mp4)](./test.mp4)
 
 ---
 ## ✨ Features
