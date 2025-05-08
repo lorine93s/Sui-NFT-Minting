@@ -3,7 +3,13 @@
 A Sui-based NFT minting decentralized app (dApp) with whitelist support, random traits, and dynamic on-chain metadata.
 
 ---
+## 🎥 Workflow Video
 
+Check out the video below to understand the complete workflow of the dApp:
+
+[![Watch the video](./test.mp4)]
+
+---
 ## ✨ Features
 
 ### 🛠 **Move Smart Contract**
